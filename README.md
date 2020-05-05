@@ -2,7 +2,7 @@
 Public Holidays from >40 countries, 2019-2020
 
 It has been almost 4 years since my last time actually coding with Python. The last time I code
-was about final project and research internship assignments. During these "inter-regnum" period (2015-2019),
+was about final project and research internship assignments. During these "inter-regnum" period (2016-2019),
 in my bank job, I mostly code in R for data analytic purposes.
 
 But as I am approaching learning Data Science materials, here come again the momentum to apply my Python skills.
